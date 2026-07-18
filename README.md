@@ -80,10 +80,9 @@ Pretendo continuar desenvolvendo novos projetos em C para aprimorar minha lógic
 
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 **Heitor Hiago**
 
 Estudante de Sistemas de Informação na UFMS.
 
-GitHub: https://github.com/heitorhiago29
